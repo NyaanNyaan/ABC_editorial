@@ -19,3 +19,6 @@ H/Ex は H で統一。リンクの横にある見出しは適当
 - [ABC256H: I like Query Problem](https://atcoder.jp/editorial_from_task?id=4113&taskScreenName=abc256_h) Segment Tree Beats!
 - [ABC260H: Colorfulness](https://atcoder.jp/editorial_from_task?id=4434&taskScreenName=abc260_h) 母関数
 - [ABC265H: No-capture Lance Game](https://atcoder.jp/editorial_from_task?id=4577&taskScreenName=abc265_h) FFT, アダマール変換
+- [ABC269G: Reversible Cards 2](https://atcoder.jp/contests/abc269/editorial/4841) 個数制限つきナップサック問題, $\mathrm{O}(M^{1.5})$ DP
+- [ABC269H: Antichain](https://atcoder.jp/contests/abc269/editorial/4838) HLD, heavy path 上の分割統治
+- [ABC270H: add 1](https://atcoder.jp/contests/abc270/editorial/4891) 期待値, ポテンシャル関数
