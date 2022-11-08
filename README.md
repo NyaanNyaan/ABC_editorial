@@ -22,3 +22,5 @@ H/Ex は H で統一。リンクの横にある見出しは適当
 - [ABC269G: Reversible Cards 2](https://atcoder.jp/contests/abc269/editorial/4841) 個数制限つきナップサック問題, $\mathrm{O}(M^{1.5})$ DP
 - [ABC269H: Antichain](https://atcoder.jp/contests/abc269/editorial/4838) HLD, heavy path 上の分割統治
 - [ABC270H: add 1](https://atcoder.jp/contests/abc270/editorial/4891) 期待値, ポテンシャル関数
+- [ABC272H: Flipping Coin 2](https://atcoder.jp/contests/abc272/editorial/4973) $x \frac{d}{dx}$, スターリング行列
+- [ABC274H: XOR Sum of Arrays](https://atcoder.jp/contests/abc274/editorial/5026) Rolling Hash, Nimber
